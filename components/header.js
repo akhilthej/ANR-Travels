@@ -29,8 +29,8 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> Cab Service all over Hyderabad</p>
-                <p className="text-2xl font-light text-white ">
+                <p className="sm:text-7xl text-white text-3xl "> Cab Service all over Hyderabad</p>
+                <p className="text-sm font-light text-white ">
                   24/7 cab service.
                 </p>
                 <Link href='https://wa.me/919704899400'>
@@ -50,8 +50,8 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> Any Where . Any time</p>
-                <p className="text-2xl font-light text-white ">
+                <p className="sm:text-7xl text-white text-3xl"> Any Where . Any time</p>
+                <p className="text-sm font-light text-white ">
                   Service available through out Hyderabad. 
                 </p>
                 <Link href='https://wa.me/919704899400'>
@@ -74,8 +74,8 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . Hyderabad</p>
-                <p className="text-2xl font-light text-white ">
+                <p className="sm:text-7xl text-white text-3xl "> First Class . Hyderabad</p>
+                <p className="text-sm font-light text-white ">
                   Service for Any Purpose
                 </p>
                 <Link href='https://wa.me/919704899400'>

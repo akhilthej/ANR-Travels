@@ -94,7 +94,7 @@ const ContactForm = () => {
                       />
                     </svg>
                     <div className="ml-2 text-sm sm:text-base text-md tracking-wide font-semibold w-">
-                    SBI Bank Anand nagar colony ,Care hospital back side
+                    SBI Bank Anand nagar colony ,Banjara Hills Care hospital back side
                       <br /> Hyderabad, Telangana.
                     </div>
                   </div>

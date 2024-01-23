@@ -29,7 +29,7 @@ const footer = () => {
               <div className="space-y-2">
                 <p className="text-gray-500">ADDRESS</p>
                 <p className="text-gray-600 font-medium">
-                SBI Bank Anand nagar colony ,Care hospital back side
+                SBI Bank Anand nagar colony ,Banjara Hills Care hospital back side
                       <br /> Hyderabad, Telangana.
                 </p>
               </div>
@@ -58,7 +58,7 @@ const footer = () => {
               <Image src={Logo} alt="Logo" />
 
               <p className="text-gray-500">
-                ANR Travels has provided car services in  SBI Bank Anand nagar colony, area since 2005.
+                ANR Travels has provided car services in  SBI Bank Anand nagar colony Banjara Hills, area since 2005.
                 What started as a small company has grown into a premier
                 limousine and private transportation company.
               </p>
@@ -100,7 +100,7 @@ const footer = () => {
                 <div className="flex flex-row items-center space-x-4">
                   <FaMapMarkerAlt className="w-6 h-6 text-gray-500  font-light" />
                   <p className="text-gray-500">
-                  SBI Bank Anand nagar colony ,Care hospital back side
+                  SBI Bank Anand nagar colony ,Banjara Hills Care hospital back side
                       <br /> Hyderabad, Telangana.
                   </p>
                 </div>

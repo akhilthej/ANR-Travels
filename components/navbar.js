@@ -20,19 +20,19 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="bg-gray-100  z-10">
+      <div className="bg-gray-100  z-10  ">
         <div className="container mx-auto lg:flex lg:flex-row lg:justify-between justify-center items-center space-y-2 text-gray-500 py-3 w-full">
           <div className="lg:flex lg:flex-row flex flex-col justify-center items-center space-x-12 lg:space-y-0 space-y-2">
-            <div className="flex flex-row space-x-2">
-              <FaMapMarkerAlt className="w-5 h-5 text-gray-500" />
-              <p> SBI Bank Anand nagar colony ,Care hospital back side
-                      <br /> Hyderabad, Telangana.</p>
+            <div className="flex flex-row space-x-2 text-sm hidden">
+              <FaMapMarkerAlt className="w-5 h-5 text-gray-500  " />
+              SBI Bank Anand nagar colony ,Banjara Hills Care hospital back side
+                      <br /> Hyderabad, Telangana.
             </div>
-            <div className="flex flex-row space-x-2">
+            <div className="flex flex-row space-x-2 text-sm">
               <FaMobileAlt className="w-5 h-5 text-gray-500" />
               <p> (+91) 970 489 9400</p>
             </div>
-            <div className="flex flex-row space-x-2">
+            <div className="flex flex-row space-x-2 text-sm">
               <FaRegClock className="w-5 h-5 text-gray-500" />
               <p>Mon-Sun: 08:00 AM - 10:00 PM</p>
             </div>

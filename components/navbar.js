@@ -57,7 +57,8 @@ const Navbar = () => {
             <button 
               type="button"
               className="text-gray-700 hover:text-white hover:bg-yellow-600 border-2 border-yellow-500 rounded-3xl px-5 py-2.5 text-center mr-3 md:mr-0 "
-            >
+            > 
+            
               BOOK NOW
             </button></Link>
             <button

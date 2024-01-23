@@ -15,7 +15,7 @@ const Meta = ({ title, keywords, description }) => {
 
 Meta.defaultProps = {
   title: "ANR Travels",
-  keywords: "ANRTravels, Hyd",
+  keywords: "ANRTravels,  SBI Bank Anand nagar colony ,Care hospital back side ,Hyderabad, Telangana.",
   description: "Get the latest news in web dev",
 };
 

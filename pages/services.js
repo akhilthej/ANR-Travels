@@ -17,7 +17,7 @@ const Services = () => {
         <div className="container mx-auto lg:grid lg:grid-cols-2 gap-16 py-24 px-16">
           <div className="col-span-1 space-y-8 text-gray-600">
             <p className="text-xl font-medium">
-              AutoRide Transportation Services
+              ANR Travels
             </p>
             <p className="text-gray-500">
               A family-owned business since its incorporation in 1995, the
@@ -36,9 +36,7 @@ const Services = () => {
                 try our service and I personally guarantee you will have a fully
                 satisfied experience.
               </p>
-              <p className="text-xl  font-light text-right text-gray-500">
-                ANNA CRIADO - CHAIRMAN & CEO
-              </p>
+              
             </div>
           </div>
         </div>

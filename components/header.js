@@ -8,6 +8,7 @@ import "swiper/css/navigation";
 
 // import required modules
 import { Autoplay, Navigation } from "swiper";
+import Link from "next/link";
 const header = () => {
   return (
     <div className=" h-screen w-full">
@@ -28,16 +29,14 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white "> Cab Service all over Hyderabad</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  24/7 cab service.
                 </p>
-                <button
-                  type="button"
-                  className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
-                >
+                <Link href='https://wa.me/919704899400'>
+                <button className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 ">
                   CONTACT US
-                </button>
+                </button></Link>
               </div>
             </div>
           </div>
@@ -51,16 +50,17 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white "> Any Where . Any time</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  Service available through out Hyderabad. 
                 </p>
+                <Link href='https://wa.me/919704899400'>
                 <button
                   type="button"
                   className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
                 >
                   CONTACT US
-                </button>
+                </button></Link>
               </div>
             </div>
           </div>
@@ -74,16 +74,17 @@ const header = () => {
           >
             <div className="h-screen bg-black bg-opacity-10 ">
               <div className="h-screen flex flex-col justify-center items-center space-y-6">
-                <p className="text-7xl text-white "> First Class . WorldWide</p>
+                <p className="text-7xl text-white "> First Class . Hyderabad</p>
                 <p className="text-2xl font-light text-white ">
-                  A chauffer Service for Any Purpose
+                  Service for Any Purpose
                 </p>
+                <Link href='https://wa.me/919704899400'>
                 <button
                   type="button"
                   className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
                 >
                   CONTACT US
-                </button>
+                </button></Link>
               </div>
             </div>
           </div>

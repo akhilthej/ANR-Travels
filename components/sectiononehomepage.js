@@ -23,7 +23,6 @@ const Contents = () => {
           <br />
           have a fully satisfied experience.
         </p>
-        <p className="text-xl text-gray-500">ANDRO Tomas - CHAIRMAN CEO</p>
       </div>
       <div className="lg:grid lg:grid-cols-2 px-12">
         <div className="col-span-1 space-y-6 py-12 text-center px-8">

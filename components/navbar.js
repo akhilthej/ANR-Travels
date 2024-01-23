@@ -25,7 +25,8 @@ const Navbar = () => {
           <div className="lg:flex lg:flex-row flex flex-col justify-center items-center space-x-12 lg:space-y-0 space-y-2">
             <div className="flex flex-row space-x-2">
               <FaMapMarkerAlt className="w-5 h-5 text-gray-500" />
-              <p>Hyd</p>
+              <p> SBI Bank Anand nagar colony ,Care hospital back side
+                      <br /> Hyderabad, Telangana.</p>
             </div>
             <div className="flex flex-row space-x-2">
               <FaMobileAlt className="w-5 h-5 text-gray-500" />

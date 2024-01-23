@@ -11,7 +11,7 @@ const AboutUs = () => {
         <div
           className="bg-no-repeat bg-cover bg-center  h-72"
           style={{
-            backgroundImage: `url(/heading_02.jpg)`,
+            backgroundImage: `url(/img02.jpg)`,
           }}
         >
           <div className="bg-black   bg-opacity-50 w-full h-full  flex items-center justify-center">

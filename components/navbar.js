@@ -20,7 +20,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="bg-gray-100">
+      <div className="bg-gray-100  z-10">
         <div className="container mx-auto lg:flex lg:flex-row lg:justify-between justify-center items-center space-y-2 text-gray-500 py-3 w-full">
           <div className="lg:flex lg:flex-row flex flex-col justify-center items-center space-x-12 lg:space-y-0 space-y-2">
             <div className="flex flex-row space-x-2">
@@ -50,13 +50,16 @@ const Navbar = () => {
               <Image src={Logo} alt="Logo" />
             </a>
           </Link>
+
+          
           <div className="flex md:order-2">
-            <button
+          <Link href="https://wa.me/919704899400" >
+            <button 
               type="button"
               className="text-gray-700 hover:text-white hover:bg-yellow-600 border-2 border-yellow-500 rounded-3xl px-5 py-2.5 text-center mr-3 md:mr-0 "
             >
               BOOK NOW
-            </button>
+            </button></Link>
             <button
               onClick={toggleMobileMenu}
               type="button"

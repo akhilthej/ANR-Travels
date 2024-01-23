@@ -169,7 +169,7 @@ const footer = () => {
         <FaWhatsapp className="cursor-pointer w-10 h-10 text-green-500 mb-5 " />
           </div></Link>
         </ul>
-        <null class='fade-in-left delay-100 cursor-default text-black italic text-xs pb-2'>Designed & Developed by <Link href="https://cyberspacedigital.in/"> Cyber Space Digital</Link></null>
+        <null className='fade-in-left delay-100 cursor-default text-black italic text-xs pb-2'>Designed & Developed by <Link href="https://cyberspacedigital.in/"> Cyber Space Digital</Link></null>
     </div>
   </div>
 </section>

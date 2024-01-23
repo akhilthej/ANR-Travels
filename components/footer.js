@@ -48,7 +48,7 @@ const footer = () => {
               <div className="space-y-2">
                 <p className="text-gray-500">WORKING HOURS</p>
                 <p className="text-gray-600 font-medium">
-                  MON-SUN: 08:00 AM - 10:00 PM 
+                24/7 Available
                 </p>
               </div>
             </div>

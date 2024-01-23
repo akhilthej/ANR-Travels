@@ -34,7 +34,7 @@ const Navbar = () => {
             </div>
             <div className="flex flex-row space-x-2 text-sm">
               <FaRegClock className="w-5 h-5 text-gray-500" />
-              <p>Mon-Sun: 08:00 AM - 10:00 PM</p>
+              <p>24/7 Available</p>
             </div>
           </div>
           <div className="flex flex-row space-x-4 justify-center items-center ">

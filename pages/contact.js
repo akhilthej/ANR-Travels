@@ -18,7 +18,7 @@ const ContactForm = () => {
     e.preventDefault();
 
     // Replace 'YOUR_DISCORD_WEBHOOK_URL' with the actual URL of your Discord webhook
-    const discordWebhookUrl = 'https://discord.com/api/webhooks/1188142399332032512/t_u3FNseO4CzVYp-yn7eUWNdF8wweauOpcjlqeA3xkh6XWQrVGTulVlkTXcQnYQLr1GE';
+    const discordWebhookUrl = 'https://discord.com/api/webhooks/1200068483732476036/JivirzNThFHMwf4o8LC4daVxkO8KK0f4kVWM7LRWaZMluC4hfRly5eLAN0WZGfIwOlBi';
 
     // Prepare the message to be sent to Discord
     const message = {
@@ -58,7 +58,7 @@ const ContactForm = () => {
           }}
         >
           <div className="bg-black   bg-opacity-50 w-full h-full  flex items-center justify-center">
-            <p className="text-white text-5xl font-light  p-8">Our Services</p>
+            <p className="text-white text-5xl font-light  p-8">Contact</p>
           </div>
         </div>
      
@@ -75,7 +75,7 @@ const ContactForm = () => {
                 <div className="p-6 mr-2   sm:rounded-lg">
                   <h1 className="text-center sm:text-left text-4xl sm:text-5xl text-black font-extrabold tracking-tight">
                     Get in Touch
-                  </h1>={}
+                  </h1>
                   <p className="text-center sm:text-left text-normal text-lg sm:text-2xl font-medium text-black mt-2">
                     Fill in the form to start a conversation
                   </p>

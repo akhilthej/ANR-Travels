@@ -111,7 +111,7 @@ const footer = () => {
                
                 <div className="flex flex-row items-center space-x-4">
                   <FaVoicemail className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500"> contact@anrtravels.com</p>
+                  <p className="text-gray-500"> contact@anrtravelshyd.com</p>
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaCalendarWeek className="w-6 h-6 text-gray-500 " />
@@ -129,7 +129,7 @@ const footer = () => {
                   type="email"
                   id="email"
                   className="bg-gray-50 border border-gray-300 text-gray-900   focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
-                  placeholder="name@flowbite.com"
+                  placeholder="name@anrtravels.in"
                   required
                 />
                 <button
@@ -145,8 +145,7 @@ const footer = () => {
       </div>
     </div>
     
-    <div className="py-8 container mx-auto flex flex-row justify-between px-2">
-  <p className="text-black text-sm ">2024 © Cyber Space Digital</p>
+    <div className="py-8 container mx-auto flex  justify-center px-2">
   <Link href="https://cyberspacedigital.in/">
   <div>
   <p className="cursor-pointer flex text-xs pb-2">Designed & Developed by</p>
@@ -154,11 +153,7 @@ const footer = () => {
       height={35}
       width={150}
     /></div></Link>
-  <div className="flex flex-row space-x-3 ">
-    <FaFacebook className="w-5 h-5 text-gray-500" />
-    <FaInstagram className="w-5 h-5 text-gray-500" />
-    <FaWhatsapp className="w-5 h-5 text-gray-500" />
-  </div>
+  
 </div>
 
 
@@ -171,7 +166,7 @@ const footer = () => {
         <FaWhatsapp className="cursor-pointer w-10 h-10 text-green-500 mb-5 " />
           </div></Link>
         </ul>
-        <null className='fade-in-left delay-100 cursor-default text-black italic text-xs pb-2'>Designed & Developed by <Link href="https://cyberspacedigital.in/"> Cyber Space Digital</Link></null>
+        <null className='fade-in-left delay-100 cursor-default text-black italic text-xs pb-2'>Book Your Ride now !!!</null>
     </div>
   </div>
 </section>

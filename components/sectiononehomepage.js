@@ -5,6 +5,7 @@ import Image2 from "../public/image_01-5.jpg";
 import Image3 from "../public/image_10-1.jpg";
 import Image4 from "../public/image_10-2.jpg";
 import Image5 from "../public/image_03-2.jpg";
+import Link from "next/link";
 const Contents = () => {
   return (
     <div className="container mx-auto py-24  space-y-20 w-full">
@@ -35,12 +36,13 @@ const Contents = () => {
             ground transportation in the area. Our goal is to make your travels
             safe, effortless and on schedule.
           </p>
-          <button
+          <Link href="https://wa.me/919704899400">
+          <button 
             type="button"
             className="text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
           >
             CONTACT US
-          </button>
+          </button></Link>
         </div>
         <div className="grid grid-cols-2 grid-rows-2 gap-2">
           <div className="col-span-1 row-span-2">

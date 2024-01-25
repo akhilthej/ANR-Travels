@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const ContentTwo = () => {
   return (
     <div>
@@ -70,12 +72,13 @@ const ContentTwo = () => {
             </div>
           </div>
         </div>
+        <Link href="https://wa.me/919704899400">
         <button
           type="button"
           className=" text-white  bg-amber-600 hover:bg-amber-800   rounded-3xl  px-8 py-3 text-center mr-2 mb-2 "
         >
           CONTACT US
-        </button>
+        </button></Link>
       </div>
     </div>
   );

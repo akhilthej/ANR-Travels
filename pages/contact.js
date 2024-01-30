@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React, { useState } from "react";
+import GoogleMap from "../components/GoogleMaps";
 
 const ContactForm = () => {
  
@@ -219,6 +220,7 @@ const ContactForm = () => {
         </div>
       </section>
 
+<GoogleMap />
 
 
 
